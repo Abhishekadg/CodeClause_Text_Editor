@@ -1,2 +1,2 @@
-# CodeClause_Text_Editor
-Code clause Internship project
+Basic_Text_Editor
+*Code clause Internship project*
